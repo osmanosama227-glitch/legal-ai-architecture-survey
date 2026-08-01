@@ -1,0 +1,99 @@
+#,Title (short),Author(s),Year,Architecture,Task
+1,A Comprehensive Evaluation of LLMs on Legal Judgment Prediction,Shui & Cao,2023,LLM,LJP
+2,LEMUR: Corpus for Robust Fine-Tuning of Multilingual Law Embedding Models for Retrieval,Baba Ahmadi et al.,2026,LLM,Retrieval
+3,NOWJ@COLIEE 2025: Multi-stage Embedding+LLM Framework for Legal Retrieval and Entailment,Nguyen et al.,2025,RAG,Retrieval
+4,A Reasoning-Focused Legal Retrieval Benchmark,"Zheng, Guha & Arifov",2025,Benchmark,Retrieval
+5,AI-Assisted Sentencing Modeling Under Explainability Constraints,Sun & Shen,2026,LLM,Reasoning/Ethics
+6,"AI-Powered Lawyering: AI Reasoning Models, RAG, and the Future of Legal Practice",Journal of Law & Empirical Analysis,2026,RAG,Practice/Overview
+7,ALARB: An Arabic Legal Argument Reasoning Benchmark,Abu Shairah et al.,2025,Benchmark,Arabic NLP
+8,ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine,Al-Qaesm,2024,LLM,Arabic NLP
+9,An Integrated Framework of Prompt Engineering and Multidimensional KGs for Legal Dispute Analysis,"Zhang, Zhao & Qin",2025,KG,Dispute Analysis
+10,All for Law and Law for All: Adaptive RAG Pipeline for Legal Research,Keisha et al.,2025,RAG,Research
+11,An Ontology-Driven Graph RAG for Legal Norms,de Martim,2025,KG,Norms/RAG
+12,AppellateGen: A Benchmark for Appellate Legal Judgment Generation,"Yang, Wang et al.",2026,Benchmark,LJP/Generation
+13,Applicability of LLMs for Legal Case Judgement Summarization,"Deroy, Ghosh & Ghosh",2024,LLM,Summarization
+14,ArabLegalEval: A Multitask Benchmark for Arabic Legal Knowledge in LLMs,Hijazi et al.,2024,Benchmark,Arabic NLP
+15,Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools,"Magesh, Surani & Dahl",2024,LLM,Evaluation/Ethics
+16,It Cannot Be Right If It Was Written by AI: Lawyers' Preferences of LLM vs Human Documents,"Harasta, Novotna & Savelka",2024,LLM,Ethics/HCI
+17,Automating Construction Contract Review Using KG-Enhanced LLMs,"Zheng, Wong et al.",2025,KG,Contract Review
+18,Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs' Legal Reasoning,Roy Choudhury et al.,2026,Benchmark,Contract Review
+19,Better Call GPT: Comparing LLMs Against Lawyers,"Martin, Whitehouse et al.",2024,LLM,Contract Review
+20,Beyond Guilt: LJP with Trichotomous Reasoning (LJPIV),"Zhang, Yang et al.",2025,LLM,LJP
+21,"Bridging Legal Knowledge and AI: RAG with Vector Stores, KGs, and Hierarchical NMF","Barron, Eren & Serafimova",2025,Hybrid,RAG/KG
+22,Bridging the Gap in Arabic Legal NLP: Corpus and Benchmark for Summarisation-Classification,"Sayed, Aboutabl & Ghoneim",2026,Benchmark,Arabic NLP
+23,CanLegalRAGBench: Evaluating RAG on Canadian Case Law,"Zhao, Taranukhin et al.",2026,Benchmark,RAG
+24,Can LLMs Predict the Outcome of Judicial Decisions?,"Kmainasi, Shahroor & Al-Ghraibah",2025,LLM,LJP
+25,Chatlaw: A Multi-Agent Legal Assistant based on a Role-Aligned MoE Architecture,"Cui, Ning et al.",2023,Multi-Agent,Assistant
+26,Construction of Knowledge Graph Based on Language Model,"Zhu, Wang et al.",2026,KG,KG Construction
+27,Construction of Legal KG Based on Knowledge-Enhanced LLMs,"Li, Qian & Liu",2024,KG,KG Construction
+28,ContractEval: Benchmarking LLMs for Clause-Level Legal Risk Identification,"Liu, Li et al.",2025,Benchmark,Contract Review
+29,DeonticBench: A Benchmark for Reasoning over Rules,"Dou, Brena et al.",2026,Benchmark,Reasoning
+30,Distinguish Confusing Law Articles for LJP (LADAN),"Xu, Wang et al.",2020,LLM,LJP
+31,Domain-Partitioned Hybrid RAG for Legal Reasoning (India),"Goel, Kumar et al.",2026,Hybrid,RAG/KG
+32,Evaluating the Role of LLMs in Legal Practice in India,Hemrajani,2025,LLM,Practice
+33,Enhancing Judgment Document Generation via Agentic Legal Information Collection,"Su, Chen & Wu",2026,Multi-Agent,Generation
+34,Experimenting with Legal AI Solutions: QA for Access to Justice,"Li, Bhambhoria et al.",2024,RAG,QA
+35,Exploration and Visualization of a Legal Knowledge Graph,Wehnert,2023,KG,Visualization
+36,Exploring AI and ML Approaches to Legal Reasoning,Raghupathi,2026,LLM,Reasoning
+37,Exploring the Nexus of LLM and Legal Systems: A Short Survey,Qin & Sun,2024,Survey,Survey
+38,GLARE: Agentic Reasoning for Legal Judgment Prediction,"Yang, Deng & Dou",2025,Multi-Agent,LJP
+39,Gender Bias in LLMs: Shared Parenting in Czech Family Law,"Harasta, Vasina et al.",2025,LLM,Ethics/Bias
+40,HyPA-RAG: Hybrid Parameter Adaptive RAG for AI Legal and Policy Applications,"Kalra, Wu et al.",2025,RAG,RAG
+41,Hybrid NLP Framework for Contract Risk Assessment: Dual-Agent RoBERTa+Rule-Based,IJSRS,2025,Multi-Agent,Contract Review
+42,LegalRAG: A Hybrid RAG System for Multilingual Legal Information Retrieval,"Kabir, Sultan et al.",2025,RAG,Retrieval
+43,Knowledge Graph-Assisted LLM Post-Training for Enhanced Legal Reasoning,"Song, Bonifazi et al.",2026,KG,Post-Training
+44,LawThinker: A Deep Research Legal Agent in Dynamic Environments,"Yang, Deng & Wen",2026,Multi-Agent,Research Agent
+45,Improving Access to Justice with Legal Chatbots,"Queudot, Charton & Meurs",2020,RAG,Chatbot
+46,Incorporating Precedents for LJP on ECHR Cases,"Santosh, Elganayni et al.",2024,LLM,LJP
+47,CaseLink: Inductive Graph Learning for Legal Case Retrieval,"Tang, Qiu & Yin",2024,KG,Retrieval
+48,Integrating RAG with Fine-Tuned TinyLlama for Data Sovereignty and Localised Compliance,"Wong, Wong & Tan",2026,Hybrid,RAG/Fine-tuned
+49,International Criminal Law: Environmental Rights and AI-Based Sentencing,"Wu, Wang et al.",2022,LLM,Sentencing
+50,Investigating Multi-Agent Deliberation in Law,Steging & van Leeuwen,2024,Multi-Agent,Deliberation
+51,KRAG Framework for Enhancing LLMs in the Legal Domain,Nguyen Ha Thanh & Satoh,2024,Hybrid,RAG/KG
+52,LAMUS: Large-Scale Corpus for Legal Argument Mining from US Caselaw using LLMs,"Wang, Pobbathi & Chen",2024,LLM,Argument Mining
+53,Legal Documents Drafting with Finetuned Pre-Trained LLM,Lin & Cheng,2023,LLM,Drafting
+54,LegalBench: A Collaboratively Built Benchmark for Legal Reasoning in LLMs,"Guha, Nyarko et al.",2023,Benchmark,Reasoning
+55,LegalBot: AI Law Advisor Chatbot,"Pardhi, Koli et al.",2024,RAG,Chatbot
+56,LLaMandement: LLMs for Summarization of French Legislative Proposals,Gesnouin et al.,2024,LLM,Summarization
+57,Large Language Models in Law: A Survey,"Lai, Gan et al.",2024,Survey,Survey
+58,LLMs in Interpreting Legal Documents,"Pillai, Tedesco & Scotti (Eds.)",2025,LLM,Interpretation
+59,Label Indeterminacy in AI & Law,Steging & Zbiegien,2025,LLM,Methodology/Ethics
+60,Large Language Models in Legal Systems: A Survey,Dehghani et al.,2025,Survey,Survey
+61,Large Legal Fictions: Profiling Legal Hallucinations in LLMs,"Dahl, Magesh, Suzgun & Ho",2024,LLM,Ethics/Hallucination
+62,LawBench: Benchmarking Legal Knowledge of LLMs,"Fei, Shen et al.",2023,Benchmark,Benchmark
+63,LeAK-GraphRAG: Legal Academic KG-RAG with Hybrid Retrieval for Mitigating Hallucinations,Liu & Tang,2025,KG,RAG/KG
+64,Legal Case Retrieval: A Survey of the State of the Art,"Feng, Li & Ng",2023,Survey,Survey
+65,LJP with LLM and Graph Contrastive Learning Networks,Xia & Luo,2024,KG,LJP
+66,Legal Query RAG,"Wahidur, Kim et al.",2025,RAG,RAG
+67,Legal Case Documents: A Comprehensive Dataset for Arabic NLP Research,Data in Brief,2026,Benchmark,Arabic NLP
+68,LegalBench-RAG: A Benchmark for RAG in the Legal Domain,Pipitone & Houir Alami,2024,Benchmark,RAG
+69,Legal-DC: Benchmarking RAG for Legal Documents,"Li, Lan et al.",2026,Benchmark,RAG
+70,LegalGraphRAG: Multi-Agent Graph RAG for Reliable Legal Reasoning,"Chen, Zhang et al.",2026,Hybrid,RAG/KG/Multi-Agent
+71,Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems,Colombo,2024,KG,Legislative Monitoring
+72,LexGLUE: A Benchmark Dataset for Legal Language Understanding in English,"Chalkidis, Jana et al.",2022,Benchmark,Benchmark
+73,LexRAG: Benchmarking RAG in Multi-Turn Legal Consultation Conversation,"Li, Chen & Hu",2025,Benchmark,RAG
+74,Multimodal Multi-Agent Empowered Legal Judgment Prediction,"Kang, Gong et al.",2026,Multi-Agent,LJP
+75,Miko Team: Deep Learning Approach for Legal QA in ALQAC 2022,"Nguyen Van, Nguyen et al.",2022,LLM,QA
+76,MizanQA: Benchmarking LLMs on Moroccan Legal Question Answering,Bahaj,2025,Benchmark,Arabic NLP
+77,Natural Language Processing for the Legal Domain: A Survey,"Ariai, Mackenzie & Demartini",2025,Survey,Survey
+78,Natural Language Processing in the Legal Domain,"Hartung, Katz et al.",2026,Survey,Survey
+79,Navigating Global AI Regulation: A Multi-Jurisdictional RAG System,"Ford, Rane & Leavy",2026,RAG,Regulation
+80,NeuroSymbolic AI for Legal AI-TRISM,Wiley (book chapter),2026,Hybrid,Neurosymbolic/Ethics
+81,Nyay-Darpan: Summarization and Case Retrieval for Consumer Law in India,"Bhattacharyya, Kashid et al.",2025,LLM,Summarization/Retrieval
+82,NyayaAI: AI-Powered Legal Assistant Using Multi-Agent Architecture and RAG,"Deepanshu, Saxena & Rana",2026,Hybrid,Multi-Agent/RAG
+83,Parameter Efficient Fine Tuning of Llama 3.1 for Arabic Legal QA (Jordanian Laws),Fasha,2025,LLM,Arabic NLP
+84,Pub-LawBench: Public-Oriented Benchmarking for LegalAI,"Zheng, Ma et al.",2026,Benchmark,Public QA
+85,RLJP: LJP via First-Order Logic Rule-Enhanced LLMs,"Zhang, Tian et al.",2026,Hybrid,LJP
+86,ReaKase-8B: Legal Case Retrieval via Knowledge and Reasoning Representations,"Tang, Qiu, Li & Huang",2025,KG,Retrieval
+87,Rethinking LJP in a Realistic Scenario in the Era of LLMs,"Nigam, Deroy et al.",2024,LLM,LJP
+88,Athena: Retrieval-Augmented LJP with LLMs,Peng & Chen,2024,RAG,LJP
+89,SCaLAR NITK at SemEval-2024 Task 5: Unsupervised QA with Multi-Level Summarization,"Prabhu, Srinivasa & Kumar",2024,LLM,QA/Summarization
+90,From Fact Drafts to Operational Systems: Semantic Search in Legal Decisions,"Csanyi, Lakatos et al.",2024,LLM,Retrieval
+91,SAKA-RAG: Structure-Aware Knowledge Abstraction RAG Framework for Legal Reasoning,"Li, Liu et al.",2025,Hybrid,RAG/KG
+92,Structured Legal Document Generation in India: VidhikDastaavej,"Nigam, Patnaik et al.",2026,LLM,Drafting
+93,The Factuality of LLMs in the Legal Domain,"El Hamdani, Bonald et al.",2024,LLM,Ethics/Factuality
+94,Towards Reliable Retrieval in RAG Systems for Large Legal Datasets,"Reuter, Lingenberg et al.",2025,RAG,Retrieval
+95,Towards Supporting Legal Argumentation with NLP: Is More Data All You Need?,"Santosh, Ashley et al.",2024,LLM,Argument Mining
+96,"When LLMs Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance","Shao, Xu et al.",2025,Survey,Survey
+97,Which Changes Matter? Trustworthy Legal AI via Relevance-Sensitive Evaluation,"Linze, Yufan et al.",2026,Hybrid,Reasoning/Ethics
+98,A Few Good Clauses: LLMs vs Domain-Trained SLMs on Structured Contract Extraction,"Lincoln, Whitehouse et al.",2026,LLM,Contract Extraction
